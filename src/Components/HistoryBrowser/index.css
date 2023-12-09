@@ -1,0 +1,27 @@
+.upper-section {
+  background-color: #3367d6;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.app-logo {
+  height: 40px;
+  width: 60px;
+}
+.search-logo {
+  height: 10px;
+  width: 10px;
+}
+.input-element {
+  border: solid #000000 1px;
+}
+.search-input-logos {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.down-section {
+  background-color: #ffffff;
+  text-align: center;
+  padding: 10px;
+}
